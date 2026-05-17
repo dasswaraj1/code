@@ -1,0 +1,44 @@
+body {
+    font-family: Arial;
+    margin: 40px;
+    background-color: #f5f5f5;
+}
+
+h1 {
+    color: darkblue;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background: white;
+}
+
+table,
+th,
+td {
+    border: 1px solid gray;
+}
+
+th {
+    background-color: #333;
+    color: white;
+}
+
+th,
+td {
+    padding: 10px;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    padding: 5px 10px;
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+}
+
+form {
+    margin-bottom: 20px;
+}
